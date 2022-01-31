@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Harish-S-GL
-- 👀 I’m interested in Artificial Intelligence and Machine Learning
+- 👀 I’m part of AIML acad ops team at Great Learning
 - 💞️ I’m looking to collaborate with AIML community
 - 📫 you can reach me at harish.s@greatlearning.in and 9741540914
 
